@@ -77,10 +77,15 @@ Further modification is possible in the model as we worked for the accuracy and 
 Also, this can further be propagated in Image recognition and computer vision applications.
 References: 
 [1]https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf
+
 [2] https://link.springer.com/content/pdf/10.1007/s10032-002-0094-4.pdf
+
 [3] https://colah.github.io/posts/2014-10-Visualizing-MNIST/
+
 [4]http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.441.6897&rep=rep1&type=pdf
+
 [5]https://www.sciencedirect.com/science/article/pii/S0925231207002962#:~:text=Support%20vector%20machine%20(SVM)%20is,the%20size%20of%20data%20set.
+
 [6] https://medium.com/the-andela-way/applying-machine-learning-to-recognize-handwritten-characters-babcd4b8d705
 
 
