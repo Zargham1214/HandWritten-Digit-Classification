@@ -72,10 +72,13 @@ When we switched to a PC with RAM 8GB DDR4 and hard disk 128 SSD we got the desi
 
 Reason was that on initial system page sizes were small. Basically, that system was in overcommit handling mode.
 
-Future Work: 
+FUTURE WORK: 
+
 Further modification is possible in the model as we worked for the accuracy and time complexity issues but one can implement a live example in which human writes a digit on some input screen and our model would predict which digit this is.
 Also, this can further be propagated in Image recognition and computer vision applications.
-References: 
+
+REFERENCES: 
+
 [1]https://proceedings.neurips.cc/paper/1989/file/53c3bce66e43be4f209556518c2fcb54-Paper.pdf
 
 [2] https://link.springer.com/content/pdf/10.1007/s10032-002-0094-4.pdf
